@@ -28,4 +28,4 @@ Also, I promise everything is from a fake history file :)
 After testing potential choices via cross validation, Gradient Boosting seemed like the best model for this specific project. However, the accuracy was not very good (<.75). Looking into other possibilites such as stacking/combining models, with one hot encoding as a possible option. Overall, this is a learning experience and I would love any advice or suggestions.
 
 ####Site recommendation example:
-![alt tag](https://github.com/ImAJason/Internet-History/blob/master/Images/Site Recommendation.png)
+![alt tag](https://github.com/ImAJason/Internet-History/blob/master/Images/Site%20Recommendation.png)
