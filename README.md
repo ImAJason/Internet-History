@@ -11,7 +11,7 @@ Also, I promise everything is from a fake history file :)
 ###Visualization
 
 ####Top 5 sites visited
-![alt tag](https://github.com/ImAJason/Internet-History/blob/master/Images/Top5 Sites.png)
+![alt tag](https://github.com/ImAJason/Internet-History/blob/master/Images/Top5%20Sites.png)
 
 
 ####Overall look at Internet Activity throughout the day
